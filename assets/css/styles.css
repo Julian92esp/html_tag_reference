@@ -1,0 +1,11 @@
+fieldset {
+    background-color: rgb(219, 219, 219);
+}
+legend {
+    color: white;
+    background-color: rgb(65, 65, 65);
+    padding: 10px;
+}
+input {
+    margin: 5px;
+}
